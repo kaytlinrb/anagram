@@ -6,3 +6,10 @@ require('./lib/anagram')
 get('/') do
   erb(:index)
 end
+
+get('/result') do
+  @input1 = params.fetch('input1')
+  @input2 = params.fetch('input2')
+  @result = @input1.anagram(@input2)
+  erb(:result)
+end
