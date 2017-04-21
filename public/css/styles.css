@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  background-image: url('https://t4.ftcdn.net/jpg/01/35/59/79/240_F_135597957_9zQ3oavpgC29PVvEigJ6zqFI6KlmATTA.jpg');
+  background-size: cover;
+  font-family: 'Rubik Mono One', sans-serif;
+}
+.jumbotron{
+  background-image:url('https://t3.ftcdn.net/jpg/00/92/61/84/240_F_92618442_XZkDfdOEbxe24rGH6CiVKiGb8OneiWN6.jpg');
+  background-size: cover;
+  border: 2px solid black;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.result{
+  border: 2px solid black;
+  background-image:url('https://t3.ftcdn.net/jpg/00/92/61/84/240_F_92618442_XZkDfdOEbxe24rGH6CiVKiGb8OneiWN6.jpg');
+  background-size: cover;
+    box-shadow: 10px 10px 5px #888888;
+}
