@@ -4,7 +4,9 @@ class String
     sorted_word = word.downcase().split('').sort()
     reversed_word =word.downcase().reverse()
 
-    if self.downcase == reversed_word
+    if self.scan(/[aeiouy]/).count <1
+      "not a real word"
+    elsif self.downcase == reversed_word
       "palindromes!"
     elsif sorted_input == sorted_word
       "anagrams!"

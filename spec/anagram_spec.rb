@@ -11,4 +11,7 @@ describe('String#anagram') do
   it('check if words are palindromes') do
     expect(('katie').anagram('eitak')).to(eq('palindromes!'))
   end
+  it('check if words have a vowel') do
+    expect(('qmtp').anagram('ptmq')).to(eq('not a real word'))
+  end
 end
