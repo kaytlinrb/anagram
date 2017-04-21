@@ -1,8 +1,8 @@
 require('rspec')
 require('anagram')
 
-describe('String#anagram')
+describe('String#anagram') do
   it('check if two words are anagrams') do
-    expect(('ruby')).to(eq('ybur'))
+    expect(('moop').anagram('opom')).to(eq('anagrams!'))
   end
 end
