@@ -28,7 +28,7 @@
 
 		* _Download repository **[here](https://github.com/kaytlinrb/anagram.git)** from github by cloning_
 		* _Access index.html in a browser of your choice_
-		* _Optionally access through heroku **[here](https://kaytlinrb.github.io/pizza)**_
+		* _Optionally access through heroku **[here](https://evening-basin-88818.herokuapp.com/)**_
 		_{**git bash needed to clone from repository**}_
 
 	## Known Bugs

@@ -5,6 +5,7 @@ body{
   font-family: 'Rubik Mono One', sans-serif;
 }
 .jumbotron{
+  margin: 30px;
   background-image:url('https://t3.ftcdn.net/jpg/00/92/61/84/240_F_92618442_XZkDfdOEbxe24rGH6CiVKiGb8OneiWN6.jpg');
   background-size: cover;
   border: 2px solid black;
