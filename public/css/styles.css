@@ -12,8 +12,9 @@ body{
 }
 
 .result{
+  padding:20px;
   border: 2px solid black;
   background-image:url('https://t3.ftcdn.net/jpg/00/92/61/84/240_F_92618442_XZkDfdOEbxe24rGH6CiVKiGb8OneiWN6.jpg');
   background-size: cover;
-    box-shadow: 10px 10px 5px #888888;
+  box-shadow: 10px 10px 5px #888888;
 }
